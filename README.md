@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently studying as a Software Engineering undergrad at @IIT<br>I’m looking to collaborate on software development projects<br>I’m currently learning java and javascript mainly<br>And I also have passion for UI/UX design
+I’m currently studying as a Software Engineering undergrad at IIT.<br> I’m looking to collaborate on full-stack development projects, <br> with a particular passion and skill set in the MERN stack while also focusing on building complete applications and creating engaging user interfaces.
 
 
 ## 🌐 Socials:
