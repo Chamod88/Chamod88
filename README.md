@@ -1,19 +1,46 @@
-# 💫 About Me:
-I’m currently studying as a Software Engineering undergrad at IIT.<br> I’m looking to collaborate on full-stack development projects, <br> with a particular passion and skill set in the MERN stack while also focusing on building complete applications and creating engaging user interfaces.
+# Hi, I'm Thisara Kumarasinghe 👋
 
+### Software Engineer | Backend & Distributed Systems
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Chamod#4116) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thisara chamod) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chamod.88) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Thisara Kumarasinghe) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Chamod8893) 
+Software Engineer focused on building **scalable, reliable backend systems and distributed applications**. I work primarily with **Java, Spring Boot, Go, PostgreSQL, Redis, Kafka, Docker, and cloud technologies**.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+I’m particularly interested in **distributed systems, high-throughput services, event-driven architectures, system reliability, and backend performance**.
 
+### 🚀 What I Work With
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+* **Languages:** Java, Go, C#, JavaScript, TypeScript, Python, SQL
+* **Backend:** Spring Boot, Node.js, REST APIs, Microservices
+* **Distributed Systems:** Kafka, Event-Driven Architecture, Event Sourcing, Saga Patterns
+* **Databases:** PostgreSQL, Redis, MySQL, MongoDB
+* **Infrastructure:** Docker, Kubernetes, AWS, Azure
+* **DevOps:** GitHub Actions, CI/CD, Containerization
+* **Frontend:** React, Next.js
+
+### 🔧 Current Focus
+
+Building and studying systems around:
+
+* Distributed systems and microservices
+* High-throughput backend services
+* Database performance and scaling
+* Caching and Redis internals
+* Event-driven architectures
+* System reliability and fault tolerance
+* Cloud-native deployment and CI/CD
+
+### 📌 Featured Projects
+
+**Global Payment Platform**
+Event-driven payment platform built with Java, Spring Boot, Kafka, PostgreSQL, Redis, and Docker, featuring Saga orchestration, idempotency, transactional outbox, and an event-sourced double-entry ledger.
+
+**High-Throughput Financial Ledger**
+Java/Spring Boot financial ledger focused on concurrency control, idempotency, Kafka-based event processing, PostgreSQL, Redis, Docker, and CI/CD.
+
+**Redis-Inspired In-Memory Database**
+A Go implementation exploring TCP networking, custom protocol parsing, concurrent clients, thread-safe data access, and in-memory data structures.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Chamod88&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
+### 🌐 Connect
+
+[LinkedIn](https://www.linkedin.com/in/thisarakumarasinghe) · [Email](mailto:chamod.prodev@gmail.com)
